@@ -1,0 +1,24 @@
+#picture {
+    height: auto;
+    width: 500px;
+}
+.title,
+.subtitle {
+    color: peru;
+    font-family: cursive;
+    background-color: seashell;
+}
+.title {
+    size: 55px;
+    font-weight: bolder;
+}
+.subtitle {
+    size: 38px;
+    font-weight: bold;
+}
+div {
+    color: rgb(0, 85, 85);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    text-align: inherit;
+}
